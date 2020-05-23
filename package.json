@@ -1,12 +1,20 @@
 {
-  "name": "binary-decision-tree",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@somoykhan/binary-decision-tree",
+  "version": "1.0.1",
   "main": "index.js",
+  "author": "k.somoykhan@gmail.com (somoy khan)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somoy99/binary-decision-tree"
+  },
+  "homepage": "https://elegant-khorana-6044ac.netlify.app/",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "binary decision tree",
+    "JSON Configuration",
+    "utility"
+  ]
 }
