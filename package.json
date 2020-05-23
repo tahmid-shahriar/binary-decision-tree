@@ -1,6 +1,6 @@
 {
   "name": "@somoykhan/binary-decision-tree",
-  "version": "1.0.1",
+  "version": "1.0.1-alpha1",
   "main": "index.js",
   "author": "k.somoykhan@gmail.com (somoy khan)",
   "license": "MIT",
